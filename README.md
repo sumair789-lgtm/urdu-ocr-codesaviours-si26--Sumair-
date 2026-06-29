@@ -1,1 +1,1 @@
-# urdu-ocr-codesaviours-si26--Sumair-
+Urdu OCR Project | Code Saviours SI-26 | Suamir Parveiz
