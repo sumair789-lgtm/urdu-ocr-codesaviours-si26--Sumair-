@@ -1,4 +1,4 @@
-Urdu OCR Project | Code Saviours SI-26 | Sumair Parveiz
+## Urdu OCR Project | Code Saviours SI-26 | Sumair Parveiz
 
 ## What is OCR?
 Optical Character Recognition is besically a technology in wich the text from images and scanned documents are converted to editable and machine readable text.
