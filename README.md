@@ -9,4 +9,5 @@ As the Urdu Language Script is more cursive then English and the words are joine
 ## 2 Real World Use Cases
 1: Preservation of old Pakistani News Papers like Jung etc.
 
+
 2: For the Visually impaired people that helps them to converte text-to-speech for becoming an accessibility tools.
