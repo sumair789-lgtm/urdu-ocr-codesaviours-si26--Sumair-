@@ -7,5 +7,6 @@ Optical Character Recognition is besically a technology in wich the text from im
 As the Urdu Language Script is more cursive then English and the words are joined together with no proper spacing so it becomes difficult to recognize those letter by the computer.
 
 ## 2 Real World Use Cases
-1: Preservation of old Pakistani News Papers like Jung etc
+1: Preservation of old Pakistani News Papers like Jung etc.
+
 2: For the Visually impaired people that helps them to converte text-to-speech for becoming an accessibility tools.
