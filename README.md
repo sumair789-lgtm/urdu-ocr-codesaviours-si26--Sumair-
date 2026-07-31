@@ -68,8 +68,8 @@ Upload an image containing Urdu text and the model will attempt to extract it.
 ## How to Run It Locally
 
 ```bash
-git clone https://github.com/sumair789-lgtm/[your-repo-name].git
-cd [your-repo-name]
+git clone https://github.com/sumair789-lgtm/urdu-ocr-codesaviours-si26--Sumair-.git
+cd urdu-ocr-codesaviours-si26--Sumair-
 pip install transformers torch pillow gradio sentencepiece
 python app.py
 ```
@@ -103,4 +103,7 @@ The fine-tuned TrOCR model achieved **0% exact-match accuracy (0/55)** on the he
 ## Credit
 
 Sumair Parveiz
+
+
+
 Built during the Code Saviours ML/AI Internship — Batch SI-26.
