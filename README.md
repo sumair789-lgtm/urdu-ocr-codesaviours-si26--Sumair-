@@ -100,6 +100,11 @@ The fine-tuned TrOCR model achieved **0% exact-match accuracy (0/55)** on the he
 - Use a learning rate schedule (warmup + gradual decay) rather than a fixed learning rate
 - Allow more training epochs once the tokenizer vocabulary is properly expanded, since that experiment showed the strongest early learning signal of any approach tried
 
+**Demo Video:** 
+[Watch the 2-Minute Urdu OCR Demo on Loom](https://www.loom.com/share/b31683d9373d48539b12b039604b7a8b)
+
+
+
 ## Credit
 
 Sumair Parveiz
