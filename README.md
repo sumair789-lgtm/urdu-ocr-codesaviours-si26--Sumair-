@@ -107,8 +107,4 @@ The fine-tuned TrOCR model achieved **0% exact-match accuracy (0/55)** on the he
 
 ## Credit
 
-Sumair Parveiz
-
-
-
-Built during the Code Saviours ML/AI Internship — Batch SI-26.
+Built by: Sumair Parveiz | Code Saviours SI-26 | 2026)
